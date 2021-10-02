@@ -1,6 +1,9 @@
 # Applied-Physics-155
 ## Computational Methods in Physics I
 
+#### Course Credit: 4.0 units
+#### Prerequisite: Math 121.1 (Elementary Differential Equations)
+
 ### Description
 Number systems and number representations; overview of computer hardware and software; computer programming methods; numerical analysis; research data processing; introduction to
 numerical simulation and modeling.
@@ -22,9 +25,9 @@ Some of the topics that will be discussed in class are:
 equations with more than one variable, second-order differential equations, varying the step size, boundary value problems
 
 ### References: 
-M. Newman, Computational Physics with Python
-P. DeVries, J. Hasbun. A First Course in Computational Physics. 2nd ed. 
+<br> M. Newman, Computational Physics with Python
+<br> P. DeVries, J. Hasbun. A First Course in Computational Physics. 2nd ed. 
 
 #### Programming in Python
-How to Think Like a Computer Scientist - http://openbookproject.net/thinkcs/python/english2e/index.html. 
-Z. A. Shaw. Learn Python the Hard Way. http://learnpythonthehardway.org/book
+<br> How to Think Like a Computer Scientist - http://openbookproject.net/thinkcs/python/english2e/index.html. 
+<br> Z. A. Shaw. Learn Python the Hard Way. http://learnpythonthehardway.org/book
